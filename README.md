@@ -23,3 +23,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroinaciop/)
 
 </div>
+
+![Snake animation](https://github.com/pedroinaciop/pedroinaciop/blob/output/github-contribution-grid-snake.svg)
