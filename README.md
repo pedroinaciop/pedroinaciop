@@ -34,7 +34,7 @@ Essas são as tecnologias e ferramentas que uso:
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js, mysql)](https://skillicons.dev)
 
 - Back-End
 
