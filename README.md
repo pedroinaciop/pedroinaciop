@@ -25,6 +25,8 @@
 - 📂 Expandir meu portfólio
 
 - 📈 Conseguir experiência na área
+
+<br>
                                                                                                                                                
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroinaciop&show_icons=true&theme=radical)
 
