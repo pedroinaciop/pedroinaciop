@@ -48,6 +48,11 @@ Essas são as tecnologias e ferramentas que uso:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=github,git,linux)](https://skillicons.dev)
 
+| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Kayke-Fujinaka&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+
+
 <div>
   <a href="https://api.whatsapp.com/send/?phone=%2B5511956093164&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-   badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedroinaciop" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
