@@ -16,6 +16,8 @@
   </em>
 </p>
 
+<br>
+
 - 🌱 Atualmente estou aprendendo JavaScript, HTML e CSS.
 - 🚀 Estudante da Centro Universitário das Faculdades Metropolitanas Unidas - FMU
 - 📫 Meu email: inaciopedro2004@gmail.com
