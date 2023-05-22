@@ -38,7 +38,7 @@ Essas são as tecnologias e ferramentas que uso:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,mysql)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs, java, c)](https://skillicons.dev)
 
 - Tools and Plataforms
 
