@@ -28,7 +28,7 @@
 
 - 📈 Adquirir experiência profissional
 
-- 🌎 Aperfeiçoar meu inglês
+- 🌎 Estudar e aperfeiçoar meu inglês
                                                                                                                                        
 <br>
 
