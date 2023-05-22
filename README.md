@@ -38,23 +38,11 @@ Essas são as tecnologias e ferramentas que uso:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs, java, c)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 - Tools and Plataforms
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,githubactions,gitlab,postman,figma,linux)](https://skillicons.dev)
-
-### 📈 My Statistics
-
-| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Kayke-Fujinaka&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
-
-
-                                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=Kayke-Fujinaka&theme=jolly)](https://git.io/streak-stats) |
-
 
 <div>
   <a href="https://api.whatsapp.com/send/?phone=%2B5511956093164&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-   badge&logo=whatsapp&logoColor=white" target="_blank"></a>
