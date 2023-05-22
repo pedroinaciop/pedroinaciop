@@ -48,6 +48,8 @@ Essas são as tecnologias e ferramentas que uso:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=github,git,linux)](https://skillicons.dev)
 
+<br>
+
 | Minhas estatísticas                                                                                                                                                          | Top linguagens                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=pedroinaciop&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroinaciop&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
