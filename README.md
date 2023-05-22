@@ -22,11 +22,12 @@
 
 ### 📊 Metas 2023:
 
-- 📂 Expandir meu portfólio
+- 📂 Expandir meu conhecimento
 
-- 📈 Conseguir experiência na área
+- 📈 Adquirir experiência profissional
 
-<br>                                                                                                                                         
+- 🌎 Aperfeiçoar meu inglês
+                                                                                                                                       
 
 ### ⚡ Technologies:
 
