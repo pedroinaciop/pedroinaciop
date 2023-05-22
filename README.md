@@ -61,5 +61,7 @@ Essas são as tecnologias e ferramentas que uso:
   <a href="https://www.linkedin.com/in/pedroinaciop" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:inaciopedro2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
 </div>
-
- ![Snake animation](https://github.com/ellen2121/pedroinaciop/blob/output/github-contribution-grid-snake.svg)
+    
+<br>
+    
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
