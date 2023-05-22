@@ -8,7 +8,7 @@
   Desenvolvedor Front-End
 </p>
 
-### Sobre mim:
+### 🎯 Sobre mim:
 
 <p>
   <em>
