@@ -20,6 +20,8 @@
 - 🚀 Estudante da Centro Universitário das Faculdades Metropolitanas Unidas - FMU
 - 📫 Meu email: inaciopedro2004@gmail.com
 
+<br>
+
 ### 📊 Metas 2023:
 
 - 📂 Expandir meu conhecimento
@@ -28,8 +30,9 @@
 
 - 🌎 Aperfeiçoar meu inglês
                                                                                                                                        
+<br>
 
-### ⚡ Technologies:
+### ⚡ Tecnologias:
 
 Essas são as tecnologias e ferramentas que uso:
 
