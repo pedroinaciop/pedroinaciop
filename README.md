@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Prazer, me chamo Pedro, tenho 18 anos e atualmente venho estudando para se tornar Desenvolvedor Front-End
+    Prazer, me chamo Pedro, tenho 19 anos e atualmente venho estudando para se tornar Desenvolvedor Front-End
   </em>
 </p>
 
