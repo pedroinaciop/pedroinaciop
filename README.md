@@ -19,7 +19,7 @@
 <br>
 
 - 🌱 Atualmente estou aprendendo TypeScript.
-- 🚀 Estudante da Centro Universitário das Faculdades Metropolitanas Unidas - FMU | 3/8
+- 🚀 Estudante da Centro Universitário das Faculdades Metropolitanas Unidas - FMU | 4/8
 - 📫 Meu email: inaciopedro2004@gmail.com
 - 👨‍💻 Portfólio: https://pedroinaciop.github.io/portfolio-pedroinaciop/
 
