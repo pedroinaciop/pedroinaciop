@@ -18,7 +18,7 @@
 
 <br>
 
-- 🌱 Atualmente estou aprendendo JavaScript, HTML e CSS.
+- 🌱 Atualmente estou aprendendo TypeScript.
 - 🚀 Estudante da Centro Universitário das Faculdades Metropolitanas Unidas - FMU | 3/8
 - 📫 Meu email: inaciopedro2004@gmail.com
 - 👨‍💻 Portfólio: https://pedroinaciop.github.io/portfolio-pedroinaciop/
