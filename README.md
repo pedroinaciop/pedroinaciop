@@ -41,7 +41,7 @@ Essas são as tecnologias e ferramentas que uso:
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=vscode,html,css,sass,js)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts)](https://skillicons.dev)
 
 - Back-End
 
@@ -49,7 +49,7 @@ Essas são as tecnologias e ferramentas que uso:
 
 - Ferramentas e plataformas
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=github,git,linux)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=github,git,replit,linux)](https://skillicons.dev)
 
 <br>
 
