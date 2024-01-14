@@ -25,7 +25,7 @@
 
 <br>
 
-### 📊 Metas 2023:
+### 📊 Metas 2024:
 
 - 📂 Expandir meu conhecimento
 
