@@ -1,59 +1,55 @@
 <h1 align='center'>
-  Olá, Meu nome é Pedro!
+  Hi, My name is Pedro!
   <br/>
-  Bem vindo a minha página :)
+  Welcome to my page :)
 </h1>
 
-<p align='center'>
-  Desenvolvedor Front-End
-</p>
-
-### 🎯 Sobre mim:
+### 🎯 About me:
 
 <p>
   <em>
-    Prazer, me chamo Pedro, tenho 19 anos e atualmente venho estudando para se tornar Desenvolvedor Front-End
+    Nice to meet you, I'm 20 years old and, I study every day to become a Front-End Developer.
   </em>
 </p>
 
 <br>
 
-- 🌱 Atualmente estou aprendendo TypeScript.
-- 🚀 Estudante da Centro Universitário das Faculdades Metropolitanas Unidas - FMU | 4/8
-- 📫 Meu email: inaciopedro2004@gmail.com
-- 👨‍💻 Portfólio: https://pedroinaciop.github.io/portfolio-pedroinaciop/
+- 🌱 I'm currently learn React
+- 🚀 Student at Centro Universitário das Faculdades Metropolitanas Unidas - FMU | 5/8
+- 📫 My email address: inaciopedro2004@gmail.com;
+- 👨‍💻 Portfolio: https://pedroinaciop.github.io/portfolio-pedroinaciop/
 
 <br>
 
-### 📊 Metas 2024:
+### 📊 Targets 2024:
 
-- 📂 Expandir meu conhecimento
+- 📂 Expanding my knowledge;
 
-- 📈 Adquirir experiência profissional
+- 📈 Acquiring professional experience;
 
-- 🌎 Estudar e aperfeiçoar meu inglês
+- 🌎 Studying e improving my English
                                                                                                                                        
 <br>
 
-### ⚡ Tecnologias:
+### ⚡ Tecnologies:
 
-Essas são as tecnologias e ferramentas que uso:
+These are the tecnologies I use:
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts)](https://skillicons.dev)
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,mysql)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=nodejs,mysql)](https://skillicons.dev)
 
 - Ferramentas e plataformas
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=github,git,replit,linux)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=github,git,replit,linux)](https://skillicons.dev)
 
 <br>
 
-| Minhas estatísticas                                                                                                                                                          | Top linguagens                                                                                                                                                                  |
+| My stats                                                                                                                                                         | Top languagens                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=pedroinaciop&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroinaciop&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
