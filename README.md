@@ -43,7 +43,7 @@ These are the tecnologies I use:
 
 [![My skills](https://skillicons.dev/icons?i=nodejs,mysql)](https://skillicons.dev)
 
-- Ferramentas e plataformas
+- Tools and platforms
 
 [![My skills](https://skillicons.dev/icons?i=github,git,replit,linux)](https://skillicons.dev)
 
