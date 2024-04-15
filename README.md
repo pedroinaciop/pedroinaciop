@@ -37,7 +37,7 @@ These are the tecnologies I use:
 
 - Front-End
 
-[![My skills](https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,react)](https://skillicons.dev)
 
 - Back-End
 
