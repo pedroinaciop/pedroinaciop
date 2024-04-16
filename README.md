@@ -14,7 +14,7 @@
 
 <br>
 
-- 🌱 I'm currently learn React
+- 🌱 I'm currently studying React
 - 🚀 Student at Centro Universitário das Faculdades Metropolitanas Unidas - FMU | 5/8
 - 📫 My email address: inaciopedro2004@gmail.com;
 - 👨‍💻 Portfolio: https://pedroinaciop.github.io/portfolio-pedroinaciop/
