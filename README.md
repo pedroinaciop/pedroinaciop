@@ -14,9 +14,9 @@
 
 <br>
 
-- 🌱 I'm currently studying React
+- 🌱 I'm currently studying Spring Boot and its funcionalities
 - 🚀 Student at Centro Universitário das Faculdades Metropolitanas Unidas - FMU | 7/8
-- 📫 My email address: inaciopedro2004@gmail.com;
+- 📫 My email address: inaciopedro2004@gmail.com
 - 👨‍💻 Portfolio: https://pedroinaciop.github.io/portfolio-pedroinaciop/
 
 <br>
