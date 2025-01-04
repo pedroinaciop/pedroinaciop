@@ -8,20 +8,20 @@
 
 <p>
   <em>
-    Nice to meet you, I'm 20 years old and, I study every day to become a Front-End Developer.
+    Nice to meet you, I'm 20 years old and, I study every day to become a Software Developer.
   </em>
 </p>
 
 <br>
 
 - 🌱 I'm currently studying React
-- 🚀 Student at Centro Universitário das Faculdades Metropolitanas Unidas - FMU | 5/8
+- 🚀 Student at Centro Universitário das Faculdades Metropolitanas Unidas - FMU | 7/8
 - 📫 My email address: inaciopedro2004@gmail.com;
 - 👨‍💻 Portfolio: https://pedroinaciop.github.io/portfolio-pedroinaciop/
 
 <br>
 
-### 📊 Targets 2024:
+### 📊 Targets 2025:
 
 - 📂 Expanding my knowledge;
 
@@ -37,11 +37,11 @@ These are the tecnologies I use:
 
 - Front-End
 
-[![My skills](https://skillicons.dev/icons?i=vscode,html,css,ts,react)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
 - Back-End
 
-[![My skills](https://skillicons.dev/icons?i=nodejs,mysql,java,spring)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 - Tools and platforms
 
