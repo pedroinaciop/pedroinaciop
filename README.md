@@ -41,7 +41,7 @@ These are the tecnologies I use:
 
 - Back-End
 
-[![My skills](https://skillicons.dev/icons?i=nodejs,mysql,java,)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=nodejs,mysql,java,spring)](https://skillicons.dev)
 
 - Tools and platforms
 
