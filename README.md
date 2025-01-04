@@ -37,11 +37,11 @@ These are the tecnologies I use:
 
 - Front-End
 
-[![My skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=html,css,react,js,ts)](https://skillicons.dev)
 
 - Back-End
 
-[![My skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
 
 - Tools and platforms
 
