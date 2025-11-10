@@ -8,14 +8,14 @@
 
 <p>
   <em>
-    Nice to meet you, I'm 20 years old and, I study every day to become a Software Developer.
+    Nice to meet you, I'm 21 years old and, I study every day to become a Software Developer.
   </em>
 </p>
 
 <br>
 
 - 🌱 I'm currently studying Spring Boot and its funcionalities
-- 🚀 Student at Centro Universitário das Faculdades Metropolitanas Unidas - FMU | 7/8
+- 🚀 Student at Centro Universitário das Faculdades Metropolitanas Unidas - FMU | 8/8
 - 📫 My email address: inaciopedro2004@gmail.com
 - 👨‍💻 Portfolio: https://pedroinaciop.github.io/portfolio-pedroinaciop/
 
